@@ -7,7 +7,7 @@ per scopi malevoli, non prendo nessuna responsabilità, impara in sicurezza!
 P.S: Questi esempi servono per dare una idea di come sono le email phishing, anche gia i browser moderni
 hanno ormai dei sistemi di rilevamento phishing, ma è sempre meglio fare affidameno nelle nostre capacità.
 
-fatto da: Ware_Mal
+fatto da: Bugware
 
 ING:
 Hello, this project named PPE(Project Phishing for Example) 
@@ -18,4 +18,5 @@ for malicious purposes, I take no responsibility, learn safely!
 P.S: These examples are meant to give you an idea of ​​what phishing emails are like,
 even modern browsers have phishing detection systems, but it is always better to rely on our own abilities.
 
-made by: Ware_Mal
+
+made by: Bugware
