@@ -1,0 +1,15 @@
+IT:
+Immagina che un giorno ti arriva una email o un messaggio ad esempio di Google (ma può essere di qualsiasi azienda) su qualche social che
+ti dice: "Per le misure di sicurezza, devi confermare username e password" o qualcosa del genere.
+Tu magari ci credi è clicchi su il link che ti hanno dato e ti ritrovi in un sito che può sembrare affidabile,
+ma non lo è, quando hai messo le tue informazioni(es: username e password) magari può spuntare un messaggio che ti
+può dire che hai confermato questa "prova di sicurezza", dopo un pò magari ti trovi l'account di quel social
+hackerato e tutto modificato e forse anche cacciato fuori, sei stato hackerato, e ingannato da una email phishing.
+
+ING:
+Imagine that one day you receive an email or a message for example from Google (but it could be any company) on some social network that
+tells you: "For security measures, you must confirm your username and password" or something like that.
+You may believe it and click on the link they gave you and you find yourself on a site that may seem reliable,
+but it is not, when you have entered your information (eg: username and password) maybe a message may pop up that
+can tell you that you have confirmed this "security test", after a while maybe you find the account of that social network
+hacked and everything modified, you have been hacked, and tricked by a phishing email.

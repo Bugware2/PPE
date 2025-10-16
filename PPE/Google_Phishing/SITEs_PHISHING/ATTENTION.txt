@@ -1,0 +1,9 @@
+IT:
+Il secondo sito web di prova, dove c'è un esempio con un popup, se non vedete il popup lo dovete attivare
+basta andare nel codice del primo sito, leggere il commento/riga che inizia con = //. Ritornare nel sito e attivare
+il popup dove il vostro browser vi dira che è disattivato, altrimenti andati in impostazioni del vostro browser e attivare il popup.
+
+ING:
+The second test website, where there is an example with a popup, if you do not see the popup you have to activate it
+just go into the first site code, read the comment/line that begins with = //. Return to the site and activate
+the popup where your browser will tell you that it is deactivated, otherwise go to your browser settings and active the popup.

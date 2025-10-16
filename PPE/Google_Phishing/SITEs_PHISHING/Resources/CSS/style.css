@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #202124;
+}
+
+.login-box {
+    width: 400px;
+    padding: 48px 40px 36px;
+    box-shadow: 0 1px 3px rgba(60, 64, 67, 0.3), 0 4px 8px rgba(60, 64, 67, 0.15);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.login-box img {
+    width: 130px;
+    position: relative;
+    top: 5px;
+}
+
+.login-box h1 {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.login-box p {
+    font-size: 16px;
+    color: #5f6368;
+    margin-bottom: 30px;
+}
+
+.login-box input[type="email"], .login-box input[type="text"], .login-box input[type="password"] {
+    width: 100%;
+    padding: 14px 16px;
+    margin-bottom: 24px;
+    font-size: 16px;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    background-color: #fff;
+    transition: border-color 0.2s;
+}
+
+.login-box input:focus {
+    border-color: #1a73e8;
+    outline: none;
+}
+
+.FakeSend {
+    width: 40%;
+    background-color: #1a73e8;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+#FakeSend1 {
+    position: relative;
+    top: 30px;
+    left: 210px;
+}
+
+#FakeSend2{
+    position: relative;
+    top: 30px;
+    left: 200px;
+}
+
+.login-box button:hover {
+    background-color: #1669c1;
+}
+
+.FakeLink {
+    display: inline-block;
+    font-size: 14px;
+    color: #1a73e8;
+    text-decoration: none;
+}
+        
+#FakeLink1{
+    position: relative;
+    top: -30px;
+    right: 140px;
+}
+
+#FakeLink2{
+    position: relative;
+    top: -30px;
+    right: 153px;
+}
+        
+#FakeInfo {
+    position: relative;
+    top: -29px;
+    display: inline-block;
+    font-size: 16px;
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.login-box a:hover {
+    text-decoration: underline;
+}

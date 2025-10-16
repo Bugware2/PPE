@@ -1,0 +1,72 @@
+IT:
+Ci sono vari tipi di phishing:
+Phishing tradizionale = Es: email sospetta per mettere i dati di qualche social.
+Smishing = phishing tramite sms, Es: Ti arriva un SMS dal tuo operatore.
+Vishing = phishing tramite la voce, Es: Una chiamta sospetta per la luce.
+Angler Phishing = phishing di solito sui social, Es: Un "BOT" di instragram di chede informazioni personali.
+Spear Phishing = phishing mirati, Es: una email di tutto cio che ti interessa personalmente.
+
+Questi tipi sono i più comuni.
+
+come funzionato le email/messaggio phishing?
+Le email phishing di solito mettono panico(Es: "il tuo account verrà eliminato entro 24h"), per indure la
+vittima a seguire cio che c'è scritto nell'email, si fingono aziende che possono sembrare affidabili(Es: google, instragram ecc...),
+le email phishing usano una tecnicha chiamata: Social Engineering, ovvero la capacità di manipolare le persone.
+Lo scopo di solito di una email phishing e di rubare informazioni personali, dati di account e guadagnio. Ormai anche con
+gli LLM(AI per tanti) aiutano a creare email molto più dettagliate.
+
+Anche se vi arriva un messaggio o altri tipi di phishing che non sono di tipo email, le tecniche che vi ho detto vanno sempre bene.
+
+Come capire se una email/messaggio è phishing?
+Di solito per capire se una email è phishing bisogna leggere bene l'email, e trovare errori grammaticali,
+emoji come ad esempio quella di avertenza, di solito in una email vera di un social non ci dovrebbero essere.
+Anche il tono e il linguaggio bisogna prestare attenzione, controllare anche l'indirizzo email con quale
+ti hanno inviato l'email(Es: Google.Supprt@gmail.com), di solito possono modificare di poco l'email per renderla
+a prima vista credibilè e controlla anche il link che di solito ci sono nell'email phishing pe verificare se sono
+autentici.
+
+Cosa devo fare se mi arriva una email/messaggio phishing?
+Quando vi arriva una email phishing, se avete gia capito che è phishing segnialatela e non interagir con l'email, e se trovate
+anche dei siti web finti e fattia apposta per ingannare le persone segnialate anche il sito in questione, così
+verra buttato giù. Se avete il timore, cambiate la password per stare più al sicuro.
+
+Anche se tanti messaggi/email phishing sono riconoscibili, tante persone, come i più anziani ci cascano.
+Per questo l'informazione è molto importante, soprattutto qui in italia che tante persone credono ad una emial phishing.
+Rimanete sempre informati e al sicuro, perchè tutti parlano di nuove tecnologia, ma mai nessuno parla se sono sicure,
+ecco perchè la sicurezza informatica è importante soprattutto in questi tempi.
+
+ING:
+There are various types of phishing:
+Traditional Phishing = Eg: suspicious email to put data of some social.
+Smishing = phishing via SMS, Eg: You receive an SMS from your operator.
+Vishing = phishing via voice, Eg: A suspicious call for electricity.
+Angler Phishing = phishing on social networks, Eg: An Instagram "BOT" asks for personal information.
+Spear Phishing = targeted phishing, Eg: an email of everything that interests you personally.
+
+These types are the most common.
+
+How do phishing emails/messages work?
+Phishing emails usually cause panic (Ex: "your account will be deleted within 24 hours"), to induce the victim to follow what is written in the email, they pretend to be companies that may seem reliable (Ex: google, instragram etc...),
+phishing emails use a technique called: Social Engineering, or the ability to manipulate people.
+The usual purpose of a phishing email is to steal personal information, account data and earnings. Nowadays even with
+LLMs (AI for many) they help to create much more detailed emails.
+
+Even if you receive a message or other types of phishing that are not emails, the techniques I told you are always good.
+
+How to understand if an email/message is phishing?
+Usually to understand if an email is phishing you have to read the email carefully, and find grammatical errors,
+emoji such as the warning one, usually in a real email from a social network there shouldn't be any.
+You also have to pay attention to the tone and language, also check the email address with which
+they sent you the email (Ex: Google.Supprt@gmail.com), usually they can slightly modify the email to make it
+credible at first glance and also check the link that usually is in the phishing email to verify if they
+are authentic.
+
+What should I do if I receive a phishing email/message?
+When you receive a phishing email, if you have already understood that it is phishing, report it and do not interact with the email, and if you find
+even fake websites and made on purpose to deceive people, also report the site in question, so
+it will be taken down. If you are afraid, change your password to be safer.
+
+Even if many phishing messages/emails are recognizable, many people, such as the elderly, fall for it.
+This is why information is very important, especially here in Italy where many people believe in an email phishing.
+Always stay informed and safe, because everyone talks about new technologies, but no one ever talks about whether they are safe,
+this is why computer security is important especially in these times.
